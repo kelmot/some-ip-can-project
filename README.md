@@ -1,2 +1,2 @@
-# primatec_project
+# some-ip-can-project
 The project aims to simulate an automotive communication system where user inputs are sent through a series of microcontrollers and microcomputers to perform a specific action, such as lighting an LED. The system will use Arduino boards, Raspberry Pi devices, the CAN (Controller Area Network) protocol for communication between the Arduino and Raspberry Pi, and the SOME/IP (Scalable service-Oriented MiddlewarE over IP) protocol for communication between Raspberry Pi devices.
